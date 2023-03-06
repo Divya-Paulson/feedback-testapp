@@ -1,0 +1,11 @@
+h2{
+    height: 70px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    background-color: rgb(7, 21, 46);
+    color: rgb(234, 226, 226);
+    margin-top: 0px;
+}
